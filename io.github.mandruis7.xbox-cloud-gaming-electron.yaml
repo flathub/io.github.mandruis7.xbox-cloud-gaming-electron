@@ -47,7 +47,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/mandruis7/xbox-cloud-gaming-electron.git
-        commit: c6e94f9ace1c18a286e23dfac3daea0756d8f748
+        commit: ea6ef3754921d9b12c5d8da915142c18d1b0be6c
       - generated-sources.json
       # Wrapper to launch the app
       - type: script
